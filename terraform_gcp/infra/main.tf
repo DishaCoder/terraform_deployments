@@ -3,10 +3,10 @@
 locals {
   instances = {
     "instance-1" = {
-      email = "abc@gmail.com"
+      email = "xyz"
     },
     "instance-2" = {
-      email = "def@gmail.com"
+      email = "xyz"
     },
     // Add more instance configurations as needed
   }
