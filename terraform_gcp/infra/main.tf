@@ -1,5 +1,4 @@
 # creating notebook
-
 locals {
   instances = {
     "instance-1" = {
