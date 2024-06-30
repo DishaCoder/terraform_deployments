@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dazzling-decker-427913-r9",
+  "private_key_id": "94155c10e1e0ac8580f03edbb45d480051b400b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBSCCXQoOAjhOn\nPpgFFxhKNmZvKFKmUlYWnFSYYwcIj5hmMmNurJMzSPlWu2OYJxORGcytFMBlFr5q\nMCW5y2uVgC12RJCOMtcJBasogwZFQsIoNX4qJwgDDFQVCeCSWIWPZQoy8XUpmqSu\n5f7ABfPHE0RLG1eSsViCnBsruzyBu6rLQtocAqIc6+1S7aWqszEbpBJOHLf5o1Uw\nXGTpr1tr1wGIZ2YKwnc7sxEsKhpZ0akV0OoHU4sJWz/X0tor5Zi2JVRLWwakTa6/\nlmbUUen16ldVeVSAzxI6gJ7unpFsWV0Ia1GZEAsU7wdBygeAxiG9bhVIywMdAtdt\ne/vFyiX3AgMBAAECggEACIUucpyLAXrB4QiAWREYkATv5QyJAC32/44qqIENCVKT\nLEYiXfmbj5Iy86DVFhr64NWbUTHt/UbQZAv1Tchq2K9K0cDaAnq5QfuO/P0xpJH5\nzx30jtUjpEbB2h+SV8ExOg4BMhe0y322rsMSxNI+WdM+mnT9GklZFoDdLcNWOn3A\nrjOmbBiUu5mnuepJsGZpt2aujsarVPi/FjbPWfl933FdKRipRGF3FpLtzzbp+xve\nx4rFv/D0WNddoBWjsdCzd2zpO7clTj92REV4Q/oj0p7PqEV4nG9vv7EYCek9oaEi\nsMBrrPTud1NkvcySKhB5BkMfsYjECtVMtHsULU6ygQKBgQDyCs00y6CjEVdvnHHd\nLchc1UsE3dtrQFwK/s9P7AMTyX++zy7c1L4ARN5zeE/nHQtce+6BWV1DNQjvZyyV\nTNDizAro/sIkA+p+F7dMhzVa+xQB+D4xSBmCy8W3ZsUen9auMYYLCXGKgx0m/Im3\nzEGu9sWQ9MzXeKPTw9h4LLFxwQKBgQDMbX1MuXnvybT7lHSNUqPt5m81igVjcLLF\nXiHPtybX/SWsTub7Ety5mM/MCK2zGjqoGcqL4kTxRglBsMf2DhlLIDYvV40vxc1j\n5ahK/4pHIwLKxIqLWVBwDXK1pETi/j4Rptuq7Mj/nct9c3qfC5EF++ajSLLMmNJA\nND88Ud0VtwKBgEo4976F5we6bKakQeKChJu7KJsgcYXNIayZgPdQN41c0BiyLfu4\nHV+1vsWIEnCb3n0I4BW4UromTEwlxm0uNiwmR/41CVHEBaePHD2ShNEWh4cnGeNA\n6dnLJSFdmXsPpuSZ+THvPmssU8c9z/mV4FqIAAO4ngxBSXPJ7drEUdHBAoGAANLQ\nFmcI3rZpTDok3gzfLC4pdIXBz8y8a58dc8DBH02dwTvwIkLJMNY0wBWo3XfVlKfF\n8RpQPMiTcPhNVehooazXiwlHQFIDqctbCjJNVEwHztlL1ZPehxUGyUSIIoHzrg6G\nBAJALQdtsmusqsdZJjUFkNLSJZDYB/ot5whNY7ECgYEA51F2WxuIjGMREmK5xaE7\nPWe4PXxbr2JDkPpJEsVWg1ARSsL1Y2x7EFoBSWGYmTD3VIrfhz73g27mqKbVNxE4\n4cINfztCsCPraYTZtIzKpFNptk140tRKoONt0b96DUCJG4pyYJOaQMmI1oDy9fx8\ntBpRQIFnZyeEsHJAExyhUWM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "notebookserviceaccount@dazzling-decker-427913-r9.iam.gserviceaccount.com",
+  "client_id": "106764469782914680267",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/notebookserviceaccount%40dazzling-decker-427913-r9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
